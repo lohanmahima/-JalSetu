@@ -4,27 +4,27 @@
 
 > Connecting people who need help with people who are ready to help.
 
-## 🚀 Live Demo
+##  Live Demo
 
-👉 **[🌊 Open JalSetu](https://jal-setu-mocha.vercel.app/)**
+ **[🌊 Open JalSetu](https://jal-setu-mocha.vercel.app/)**
 
-## 💻 Source Code
+##  Source Code
 
-👉 **[View JalSetu on GitHub](https://github.com/lohanmahima/-JalSetu)**
+ **[View JalSetu on GitHub](https://github.com/lohanmahima/-JalSetu)**
 
 ---
 
-## 🎯 What is JalSetu?
+##  What is JalSetu?
 
 JalSetu is an AI-powered disaster-response coordination platform that acts as a bridge between people affected by disasters and people who want to help.
 
 ### Our workflow
 
-**🆘 Need → 🧠 Prioritize → 🤝 Match → 📍 Coordinate → 📊 Track**
+** Need →  Prioritize → Match →  Coordinate → Track**
 
 ---
 
-## 💡 Why JalSetu?
+##  Why JalSetu?
 
 Many disaster platforms provide alerts, maps, news and information.
 
@@ -36,7 +36,7 @@ We connect an actual need with available resources and help prioritize and coord
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - 🆘 **Emergency Help Requests**
 - 🧠 **AI-Assisted Priority**
@@ -49,7 +49,7 @@ We connect an actual need with available resources and help prioritize and coord
 
 ---
 
-## 🧠 AI Layer
+##  AI Layer
 
 JalSetu's intelligence layer is designed around:
 
