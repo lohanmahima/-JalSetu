@@ -1,0 +1,32 @@
+export const demoMatches = [
+  {
+    title: 'Potential Match #1',
+    need: 'Drinking Water',
+    people: '5',
+    distance: '3.2 km',
+    priority: 'HIGH',
+    required: '50 kits',
+    yourAvailability: '60 kits',
+    status: 'Potential match — demo',
+  },
+  {
+    title: 'Potential Match #2',
+    need: 'Food',
+    people: '12',
+    distance: '5.1 km',
+    priority: 'MEDIUM',
+    required: '80 meals',
+    yourAvailability: '100 meals',
+    status: 'Potential match — demo',
+  },
+  {
+    title: 'Potential Match #3',
+    need: 'Rescue/Transport',
+    people: '8',
+    distance: '7.8 km',
+    priority: 'HIGH',
+    required: '2 vehicles',
+    yourAvailability: '1 vehicle',
+    status: 'Potential match — demo',
+  },
+];
