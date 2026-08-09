@@ -8,6 +8,7 @@ const navItems = [
   { label: 'Donate', to: '/donate' },
   { label: 'Resources', to: '/resources' },
   { label: 'Matches', to: '/matches' },
+  { label: 'Command Center', to: '/command-center' },
 ];
 
 function Navbar() {

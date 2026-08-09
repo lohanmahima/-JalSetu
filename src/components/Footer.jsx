@@ -18,6 +18,7 @@ function Footer() {
           <Link to="/donate">Donate</Link>
           <Link to="/resources">Resources</Link>
           <Link to="/matches">Matches</Link>
+          <Link to="/command-center">Command Center</Link>
         </div>
       </div>
     </footer>

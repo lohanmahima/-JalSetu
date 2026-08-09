@@ -7,6 +7,7 @@ import VolunteerPage from './pages/VolunteerPage.jsx';
 import DonatePage from './pages/DonatePage.jsx';
 import ResourcesPage from './pages/ResourcesPage.jsx';
 import MatchCenterPage from './pages/MatchCenterPage.jsx';
+import CommandCenterPage from './pages/CommandCenterPage.jsx';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="donate" element={<DonatePage />} />
         <Route path="resources" element={<ResourcesPage />} />
         <Route path="matches" element={<MatchCenterPage />} />
+        <Route path="command-center" element={<CommandCenterPage />} />
       </Route>
     </Routes>
   );
