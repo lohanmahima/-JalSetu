@@ -7,6 +7,7 @@ const navItems = [
   { label: 'Volunteer', to: '/volunteer' },
   { label: 'Donate', to: '/donate' },
   { label: 'Resources', to: '/resources' },
+  { label: 'Matches', to: '/matches' },
 ];
 
 function Navbar() {
