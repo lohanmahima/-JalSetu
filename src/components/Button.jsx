@@ -11,15 +11,15 @@ const sizeMap = {
   md: 'px-5 py-3 text-base',
 };
 
-function Button({ to, variant = 'primary', size = 'md', children, className = '' }) {
+function Button({ to, variant = 'primary', size = 'md', children, className = '', type = 'button', ...props }) {
   const classes = `inline-flex items-center justify-center rounded-full font-semibold transition ${styleMap[variant]} ${sizeMap[size]} ${className}`;
 
   return to ? (
-    <Link to={to} className={classes}>
+    <Link to={to} className={classes} {...props}>
       {children}
     </Link>
   ) : (
-    <button type="button" className={classes}>
+    <button type={type} className={classes} {...props}>
       {children}
     </button>
   );
